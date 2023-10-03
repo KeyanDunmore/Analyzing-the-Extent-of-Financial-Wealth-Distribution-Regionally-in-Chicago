@@ -1,1 +1,3 @@
-# Analyzing The Extent of Regional Financial Wealth Distribution in Chicag
+# This research employs a mixed-method approach, combining quantitative and qualitative data analysis. To assess financial wealth distribution, statistical data was gathered and analyzed on income distribution, salaries and wages distribution, and demographic concentration. Python 3, pandas, and other packages were used to visually represent datasets
+The study of financial wealth disparities in Chicago holds significant importance, not only for local policymakers and community activists but also for the broader field of urban economics and policy. By understanding the nuances of wealth disparities within a city renowned for its financial prowess, we can gain valuable insights into the potential pitfalls and challenges that may emerge in other thriving financial centers worldwide.
+
