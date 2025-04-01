@@ -1,3 +1,4 @@
-# This research combines quantitative and qualitative data analysis. To assess financial wealth distribution, statistical data was gathered and analyzed on income distribution, salaries and wages distribution, and demographic concentration. Python 3, pandas, and other packages were employed to visually represent datasets.
-The study of financial wealth disparities in Chicago holds significant importance, not only for local policymakers, but also for the broader field of urban economics and policy. By understanding the nuances of wealth disparities within a city renowned for its financial prowess, we can gain valuable insights into the potential pitfalls and challenges that may emerge in other thriving financial centers worldwide.
+# This research uses quantitative and qualitative data analysis to analyze wealth distribution in Chicago, leveraging Python3, pandas, and related libraries for data processing and visualization.
+The examination of income, wage dispersion, and demographic clustering within Chicago, one of the nation’s biggest financial centers offers critical insights into the structural dynamics of urban inequality. Beyond its local implications, this analysis contributes to the broader discourse in urban economics and policy, displaying systemic patterns.
+
 
